@@ -3,4 +3,4 @@
 Projeto Final da Disciplina de Introdução à Programação período 2022.1 - CIn UFPE
 Desenvolvido em C, com uso da biblioteca Raylib.
 
-Jogo 
+Jogo: Don't Flunk
