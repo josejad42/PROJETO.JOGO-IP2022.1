@@ -1,4 +1,6 @@
-# PROJETO.IP
-Projeto da Cadeira de IP - CIn UFPE
+# PROJETO DA DISCIPLINA DE INTRODUÇÃO À PROGRAMAÇÃO
 
-Jogo : Não seja reprovado.
+Projeto Final da Disciplina de Introdução à Programação período 2022.1 - CIn UFPE
+Desenvolvido em C, com uso da biblioteca Raylib.
+
+Jogo 
